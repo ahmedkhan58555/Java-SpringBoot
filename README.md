@@ -122,3 +122,8 @@ This project is licensed under the **MIT License**. See the [LICENSE](LICENSE) f
 **Muhammad Ahmed Khan**  
 GitHub: [ahmedkhan58555](https://github.com/ahmedkhan58555)
 Feel free to reach out through GitHub for any inquiries or feedback!
+
+
+## Future Enhancements
+
+Planning to integrate a front-end framework, most likely Angular, into this project soon.
