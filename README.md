@@ -126,4 +126,5 @@ Feel free to reach out through GitHub for any inquiries or feedback!
 
 ## Future Enhancements
 
-Planning to integrate a front-end framework, most likely Angular, into this project soon.
+I am planning to integrate a front-end framework, most likely Angular, into this project soon.
+You are welcome to contribute to the project and be a part of it.
