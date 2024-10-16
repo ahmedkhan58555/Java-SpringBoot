@@ -1,0 +1,3 @@
+[submodule "JavaSpringBoot-cruddApp"]
+	path = JavaSpringBoot-cruddApp
+	url = https://github.com/ahmedkhan58555/Java-SpringBoot.git
